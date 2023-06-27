@@ -9,7 +9,7 @@
 
 import numpy as np
 
-def conv_spect(x,y,resolution = 0.3,start_v=None,final_v=None,
+def conv_spect(x,y,resolution,start_v=None,final_v=None,
                     ftype = 'sinc'):
     ''' 
     '''

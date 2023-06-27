@@ -14,7 +14,9 @@ The input values are:
 
 * ***Final_x***: Final x (multiple of the final resolution).
 
-* ***f_type***: Function used.
+* ***f_type***: Function used (sinc, gauss, square).
+
+It returns the low resolution x and y arrays
 
 
 ### Functions implemented
