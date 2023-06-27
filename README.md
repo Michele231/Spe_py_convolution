@@ -18,7 +18,7 @@ The input values are:
 
 
 ### Functions implemented
-![alt text](https://github.com/Michele231/Spe_py_convolution/tree/main/figures/func.png "Functions implemented")
+![alt text](https://github.com/Michele231/Spe_py_convolution/blob/main/figures/func.png "Functions implemented")
 
 ### Example
-![alt text](https://github.com/Michele231/Spe_py_convolution/tree/main/figures/Rad.png "Convolution with a Square Function")
+![alt text](https://github.com/Michele231/Spe_py_convolution/blob/main/figures/Rad.png "Convolution with a Square Function")
